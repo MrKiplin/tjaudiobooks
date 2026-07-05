@@ -1,6 +1,6 @@
 # TJ Audio Books
 
-Website for hosting audio books read by Theo Jones.
+Website for hosting audiobooks read by Theo Jones.
 
 ## Deployment
 
