@@ -1,7 +1,7 @@
 {
-  "name": "TJ Audio Books",
-  "short_name": "TJ Audio Books",
-  "description": "Audiobooks read by Theo Jones.",
+  "name": "TJ Audiobooks",
+  "short_name": "TJ Audiobooks",
+  "description": "Audiobooks read by Theodore Jones.",
   "start_url": "/tjaudiobooks/",
   "scope": "/tjaudiobooks/",
   "display": "standalone",

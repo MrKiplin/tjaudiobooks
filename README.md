@@ -1,6 +1,6 @@
 # TJ Audio Books
 
-Website for hosting audiobooks read by Theo Jones.
+Audiobooks read by Theodore Jones.
 
 ## Deployment
 
@@ -25,7 +25,7 @@ There are no particular versioning systems in use.
 
 ![](docs/mrkiplin-icon.gif)
 
-**Theo Jones** - [MrKiplin](https://github.com/MrKiplin)
+**Theodore Jones** - [MrKiplin](https://github.com/MrKiplin)
 
 ### Authors Note:
 
